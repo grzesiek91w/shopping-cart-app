@@ -1,4 +1,5 @@
-## shopping-cart-app
+#### shopping-cart-app
+
 ###Biblioteki wykorzystane przy budowie aplikacji:
 - Spring Boot
 - Hibernate
