@@ -1,6 +1,5 @@
-#### shopping-cart-app
-
-###Biblioteki wykorzystane przy budowie aplikacji:
+##### shopping-cart-app
+### Biblioteki wykorzystane przy budowie aplikacji:
 - Spring Boot
 - Hibernate
 - MySQL
@@ -11,5 +10,5 @@
 - PUT
 - DELETE
 
-## Przykład
+# Przykład
 - http://localhost:8080/shopping-cart-app/orders
