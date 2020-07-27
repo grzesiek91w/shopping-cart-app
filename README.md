@@ -11,5 +11,20 @@
 - PUT
 - DELETE
 
-## Przykład
+## Przykład POST
 - http://localhost:8080/shopping-cart-app/orders
+```json
+{
+    "product": {
+        "id": 2
+    },
+    "quantity": 2,
+    "order": {
+        "id": 10,
+        "firstName": "Grzegorz",
+        "lastName": "W",
+        "dateCreated": "27/07/2020",
+        "status": "PAID"
+    }
+}
+```
