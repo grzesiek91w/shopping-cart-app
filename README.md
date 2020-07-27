@@ -1,14 +1,15 @@
-##### shopping-cart-app
-### Biblioteki wykorzystane przy budowie aplikacji:
+# Shopping Cart Application
+
+## Biblioteki wykorzystane przy budowie aplikacji:
 - Spring Boot
 - Hibernate
 - MySQL
 
-# Dostępne serwisy REST
+## Dostępne serwisy REST
 - GET
 - POST
 - PUT
 - DELETE
 
-# Przykład
+## Przykład
 - http://localhost:8080/shopping-cart-app/orders
